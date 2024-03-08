@@ -1,0 +1,314 @@
+@media screen and (min-width: 320px){
+    body{
+        overflow-x: hidden;
+    }
+}
+
+
+
+#email{
+    display: flex;
+    gap: 20px;
+}
+#email-heading{
+    margin: 3px;
+}
+#email-phone-top{
+display: flex;
+gap: 800px;
+}
+
+#navbar{
+    display: flex;
+    gap: 90px;
+    margin-left: 5%;
+}
+
+#home-navbar{
+    color: orange;
+}
+
+#photo1{
+    position: relative;
+    margin-bottom: 3% ;
+}
+#smooth{
+    position: absolute;
+    bottom: 60%;
+left: 30%;
+color: white;
+}
+#moving{
+    position: absolute;
+    bottom: 25%;
+    left: 20%;
+    color: white;
+    font-size: 500%;
+}
+#get-started{
+    position: absolute;
+    bottom: 20%;
+    left: 35%;
+color: white;
+background-color: orange;
+padding: 20px;
+}
+#Riaad-moving{
+font-size: 300%;
+}
+#design{
+    display: flex;
+    gap: 100px;
+}
+#stool{
+    position: relative;
+    margin-top: 4%;
+    margin-bottom: 40%;
+}
+#figure{
+    position: absolute;
+    border: solid 10px blue;
+    width: 400px;
+    height: 380px;
+    top: 1100px;
+    left: 37%;
+    margin-top: 2%;
+}
+#riaad-since{
+    color: orange;
+    /* margin-top: 2%; */
+}
+#Lorem{
+    display: flex;
+    gap: 10px;
+}
+#year{
+    font-size: 300%;
+}
+#service{
+    border: solid 1px blue;
+    background-color: blue ;
+    width: 10%;
+    color: white;
+    /* margin-left: ; */
+}
+#service-images{
+    border-radius: 55%;
+}
+#p{
+    color:black
+}
+#services{
+    background-color: white;
+}
+.services{
+    display: flex;
+    gap: 10%;
+}
+#video-paragraph{
+    display: flex;
+    gap: 3%;
+}
+#paragraph{
+    margin-top: 8%;
+}
+#video{
+    display: flex;
+    margin-top: 10%;
+    gap: 6%;
+}
+#play-button{
+    position: absolute;
+    border-radius: 45%;
+    left: 42%;
+    top: 2500px;
+}
+#figure1{
+    border: 1px blue solid;
+    width: 480px;
+    height: 570px;
+    background-color: blue;
+}
+#photo-figure{
+    position: absolute;
+    top: 2590px ;
+    /* margin-bottom: 3%; */
+}
+#question{
+    color: white;
+    position: absolute;
+    top: 3060px;
+    margin-left: 3%;
+}
+#trust{
+    position: absolute;
+    border: 1px white solid;
+    background-color: white;
+ top: 2600px;
+ padding: 3%;
+ left: 2%;
+}
+#tick{
+    display: flex;
+    gap: 1%;
+    margin: 7%;
+}
+#choose-Riaad{
+    /* margin: 5%; */
+    display: flex;
+    gap: 5%;
+}
+#Book-online{
+    margin-left: 20%;
+    margin-top: 2%;
+    /* margin: 2%; */
+}
+#testimonial{
+    margin-left: 30%;
+    margin-top: 4%;
+}
+#review{
+    margin-left: 30%;
+}
+#review1{
+    margin-left: 50%;
+}
+#main-review{
+    display: flex;
+    gap: 5%;
+    margin-left: 8%;
+    margin-bottom: 4%;
+}
+.email{
+    border: 1px solid white;
+    padding: 15px;
+width: 35%;
+position: relative;
+}
+.button{
+    padding: 12px;
+    color: white;
+    background-color: orange;
+    border: orange solid;
+    position: absolute;
+    left: 50%;
+}
+.email-button{
+    margin-left: 26%;
+    background-color: whitesmoke;
+}
+
+#logos{
+    display: flex;
+    gap: 10%;
+    margin-left: 8%;
+    margin-top: 5% ;
+    margin-bottom: 5% ;
+}
+#part1{
+
+    margin-left: 10%;
+}
+#image-form{
+    margin-top: 5%;
+
+}
+.News{
+    display: flex;
+    gap: 25px;
+    margin-left: 8%;
+ } 
+#article1{
+    position: absolute;
+    top: 220px;
+    color: white;
+    left: 20px;
+    font-size: 200%;
+}
+
+#footer2{
+    display: flex;
+    gap: 10%;
+    padding: 5% 10%;
+    width: 100%;
+    border: 1px solid black;
+    background-color: black;
+}
+#headings-footer{
+    color: white;
+}
+.labels-footer{
+    color: gray;
+}
+
+
+
+/* #article2{ 
+    position: absolute;
+    top: 220px;
+    color: white;
+    /* left: 100px; 
+    font-size: 200%;
+}
+ #article3{ 
+    position: absolute;
+    top: 220px;
+    color: white;
+    left: 20px;
+    font-size: 200%;
+ } */
+
+
+
+
+
+
+
+
+
+.footer-bg-color{
+    background-color: black;
+    margin: 2% 10%;
+    width: 69%;
+  }
+  #footer{
+    display: flex;
+    background-color: orange;
+    gap: 30%;
+    border: solid 1px;
+   
+    /* margin: 0% 12% 0% 10%; */
+}
+.button-footer{
+/* padding: 10px ; */
+color: white;
+background-color: black;
+margin-top: 6%;
+height: 60px;
+border-radius: 5px;
+width: 210px;
+border: 1px solid black;
+}
+
+.footer{
+    color: white;
+    font-size: 250%;
+    padding: 4% 5%;
+}
+
+
+#icon{
+    display: flex;
+    gap: 20px;
+}
+#rights{
+    color: white;
+    margin: 10% 0%;
+  }
+  #hr{
+    color: white;
+    margin:2% 10% 5% 14%;
+  }
+  #rights-space{
+    margin: 2% 14%;
+  }
